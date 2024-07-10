@@ -1,0 +1,6 @@
+train: Searching the helmet.v1i.yolov8/train/images
+val: Searching the helmet.v1i.yolov8/valid/images
+test: Searching the helmet.v1i.yolov8/test/images
+
+nc: 2
+names: ['helmet', 'person']
